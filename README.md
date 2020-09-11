@@ -1,5 +1,5 @@
-# BabyWeightPredictionApp
-This is the code repository of our blogpost on building ml model on GCP
+# BabyWeightPrediction
+
 
 Use The BABY WEIGHT PREDICTION - MASTER 
 it has all!!
