@@ -1,0 +1,126 @@
+ID : Unique Identification number of a baby
+INST : HOSPITAL Type code
+RPLACE : Birth place
+RCOUNTY : Birth county
+PLURAL : Whether it is a singleton/twins/multiple baby births
+BDATE : Birth date (in YYYY-MM-DD format)
+BMONTH : Birth month
+BDAY : Birth day
+BYEAR : Birth year
+SEX : Sex of the baby
+RACE : Baby's/Mother's race
+FAGE : Age of father
+MAGE : Age of mother
+FEDUC : Father's years of education
+MEDUC : Mother's years of education
+TOTALP : Total pregnancies
+BDEAD : number of children born alive now dead
+TERMS : Number of other terminations 
+LBDATE : Labor date
+LBMONTH : labor month
+LBYEAR : Labor year
+LOUTCOME : Outcome of last delivery
+WEEKS : Completed weeks of gestation
+PRENATAL : 
+VISITS : Number of prenatal visits
+WEIGHT : Weight gained
+MARITAL
+ATTEND : Attendant information
+RECORD
+CHILDREN
+FDATE
+FMONTH
+FYEAR
+RACEMOM : Race of mother/child
+RACEDAD : Race of Father
+HISPMOM
+HISPDAD
+CIGNUM : Average number of cigarettes used daily (Mother)
+DRINKNUM: Average number of drinks used daily (mother)
+GAINED
+ANEMIA : Mother has/had anemia
+CARDIAC : Mother has/had cardiac disease
+ACLUNG : Mother has/had acute or chronic lung disease
+DIABETES : Mother has/had diabetes
+HERPES : Mother has/had genital herpes
+HYDRAM : Mother has/had hydramnios/Oligohydramnios
+HEMOGLOB : Mother has/had hemoglobinopathy
+HYPERCH : Mother has/had chronic hypertension
+HYPERPR : mother has/had pregnancy hypertension
+ECLAMP : Mother has/had Eclampsia
+CERVIX : Mother has/had incompetent cervix
+PINFANT : Mother had/had previous infant 4000+ grams
+PRETERM : Mother has/had previus preterm/small infant
+RENAL : Mother has/had renal disease
+RHSEN : Mother has/had Rh sensitization
+UTERINE : Mother has/had uterine bleeding
+OTHMED
+AMNIO
+MONITOR
+INDUCT
+STIMULA
+TOCOLY
+ULTRA
+OTHPROC
+FEBRILE
+MECONIUM
+RUPTURE
+ABRUPTIO
+PREVIA
+BLEEDING
+SEIZURES
+PRECLAB
+PROLAB
+DYSLAB
+BREECH
+CEPHALO
+PROLAPSE
+ANESTH
+DISTRESS
+OTHLABOR
+VAGINAL
+VAGCSECT
+PRCSECT
+RECSECT
+FORCEPS
+VACUUM
+KOTEL
+ANENCEPH
+SPINABIF
+HYDROCEP
+MICROCEP
+OTHCNS
+HEARTMAL
+OTHCIRC
+RECTALAT
+FISTULA
+OMPHALOC
+OTHGAST
+MALGEN
+RANGENE
+OTHURO
+CLEFT
+POLYDACT
+CLUBFOOT
+DHERNIA
+OTHMS
+DOWNS
+OTHCHROM
+OTHER
+BCWEEKS
+APGAR1 : Apgar score
+APGAR5 : Apgar score
+KESSNER
+INFANTTR
+MOTHERTR
+IANEMIA
+BINJURY
+FAS
+HYALINE
+ASPIRATE
+VENTLESS
+VENTMORE
+ISEIZURE
+OTHINF
+BWEIGHT :  Baby's weight at birth
+
